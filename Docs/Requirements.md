@@ -78,7 +78,7 @@
 ## 2.2 Интерфейс пользователя
 1.	Главное меню. 
 
-![Menu](../MockUp/Menu.png) 
+![Menu](../MockUp/Menu.jpg) 
 
 2.	Выбор уровня.  
 
@@ -87,6 +87,10 @@
 3.	Игровое окно.  
 
 ![play](../MockUp/Play.png) 
+
+4. Настройки
+
+![Lvl](../MockUp/Setting.jpg) 
 
 <a name="user_specifications"/>
 
