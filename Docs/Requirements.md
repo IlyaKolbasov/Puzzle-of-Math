@@ -16,8 +16,11 @@
 2.4 [Предположения и зависимости](#assumptions_and_dependencies)  
 3 [Системные требования](#system_requirements)  
 3.1 [Функциональные требования](#functional_requirements)
+
 3.1.1 [Основные функции](#main_functions)
-3.1.2[Ограничения и исключения](#restrictions_and_exclusions)  
+
+3.1.2 [Ограничения и исключения](#restrictions_and_exclusions) 
+
 3.2 [Нефункциональные требования](#non-functional_requirements)  
 3.2.1 [Атрибуты качества](#quality_attributes)  
 
